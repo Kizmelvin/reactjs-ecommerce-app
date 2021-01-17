@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactjs-ecommerce-app/static/css/main.6077c916.chunk.css",
+    "main.js": "/reactjs-ecommerce-app/static/js/main.360c883a.chunk.js",
+    "main.js.map": "/reactjs-ecommerce-app/static/js/main.360c883a.chunk.js.map",
+    "runtime-main.js": "/reactjs-ecommerce-app/static/js/runtime-main.cbead189.js",
+    "runtime-main.js.map": "/reactjs-ecommerce-app/static/js/runtime-main.cbead189.js.map",
+    "static/js/2.bb88d012.chunk.js": "/reactjs-ecommerce-app/static/js/2.bb88d012.chunk.js",
+    "static/js/2.bb88d012.chunk.js.map": "/reactjs-ecommerce-app/static/js/2.bb88d012.chunk.js.map",
+    "index.html": "/reactjs-ecommerce-app/index.html",
+    "static/css/main.6077c916.chunk.css.map": "/reactjs-ecommerce-app/static/css/main.6077c916.chunk.css.map",
+    "static/js/2.bb88d012.chunk.js.LICENSE.txt": "/reactjs-ecommerce-app/static/js/2.bb88d012.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbead189.js",
+    "static/js/2.bb88d012.chunk.js",
+    "static/css/main.6077c916.chunk.css",
+    "static/js/main.360c883a.chunk.js"
+  ]
+}
