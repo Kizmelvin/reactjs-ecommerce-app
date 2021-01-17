@@ -1,101 +1,100 @@
 {
-    "product": [ 
-         {
-            "id": "1",
-            "title": "Silk Ladies Trouser",
-            "image": "/images/fash-1.jpg",
-            "price": "3000",
-            "description":"This is for all the latest trend no matter what!",
-            "sizes": ["M","L"]
-        },
-        {
-            "id": "2",
-            "title": "Black Hoodie",
-            "image": "/images/fash-2.jpeg",
-            "price": "5000",
-            "description":"This is for all the latest trend no matter what!",
-            "sizes": ["M","L","XL"]
-        },
-        {
-            "id": "3",
-            "title": "Brown Sweat Jacket",
-            "image": "/images/fash-3.jpeg",
-            "price": "6000",
-            "description":"This is for all the latest trend no matter what!",
-            "sizes": ["M","L", "XM","XL"]
-        },
-        {
-            "id": "4",
-            "title": "Red Pant and Scarf Top",
-            "image": "/images/fash-4.jpeg",
-            "price": "8000",
-            "description":"This is for all the latest trend no matter what!",
-            "sizes": ["M","L", "XM"]
-        },
-        {
-            "id": "5",
-            "title": "Brown Hoodie",
-            "image": "/images/fash-5.jpeg",
-            "price": "5000",
-            "description":"This is for all the latest trend no matter what!",
-            "sizes": ["M","L", "XM","XL"]
-        },
-        {
-            "id": "6",
-            "title": "Blue Men's Pant",
-            "image": "/images/fash-6.jpeg",
-            "price": "7000",
-            "description":"This is for all the latest trend no matter what!",
-            "sizes": ["S","M","L", "XM","XL"]
-        },
-        {
-            "id": "7",
-            "title": "Black English Gown",
-            "image": "/images/fash-7.jpeg",
-            "price": "4000",
-            "description":"This is for all the latest trend no matter what!",
-            "sizes": ["M", "XM","S"]
-        },
-        {
-            "id": "8",
-            "title": "Audition Short Gown",
-            "image": "/images/fash-8.jpeg",
-            "price": "8000",
-            "description":"This is for all the latest trend no matter what!",
-            "sizes": ["M","L", "S"]
-        },
-        {
-            "id": "9",
-            "title": "Ash Men's Pant",
-            "image": "/images/fash-9.jpeg",
-            "price": "6000",
-            "description":"This is for all the latest trend no matter what!",
-            "sizes": ["M","L"]
-        },
-        {
-            "id": "10",
-            "title": "Blue Asian Casual",
-            "image": "/images/fash-10.jpeg",
-            "price": "10000",
-            "description":"This is for all the latest trend no matter what!",
-            "sizes": ["M","L", "XM","XL"]
-        },
-        {
-            "id": "11",
-            "title": "Milk Simple Shirt",
-            "image": "/images/fash-13.jpeg",
-            "price": "3000",
-            "description":"This is for all the latest trend no matter what!",
-            "sizes": ["M","L", "S","XL"]
-        },
-        {
-            "id": "12",
-            "title": "Red Jacket and Black Suit",
-            "image": "/images/fash-12.jpeg",
-            "price": "12000",
-            "description":"This is for all the latest trend no matter what!",
-            "sizes": ["M","L", "XM","XL"]
-        }
-       ]
-     
+  "product": [
+    {
+      "id": "1",
+      "title": "Silk Ladies Trouser",
+      "image": "images/fash-1.jpg",
+      "price": "3000",
+      "description": "This is for all the latest trend no matter what!",
+      "sizes": ["M", "L"]
+    },
+    {
+      "id": "2",
+      "title": "Black Hoodie",
+      "image": "images/fash-2.jpeg",
+      "price": "5000",
+      "description": "This is for all the latest trend no matter what!",
+      "sizes": ["M", "L", "XL"]
+    },
+    {
+      "id": "3",
+      "title": "Brown Sweat Jacket",
+      "image": "images/fash-3.jpeg",
+      "price": "6000",
+      "description": "This is for all the latest trend no matter what!",
+      "sizes": ["M", "L", "XM", "XL"]
+    },
+    {
+      "id": "4",
+      "title": "Red Pant and Scarf Top",
+      "image": "images/fash-4.jpeg",
+      "price": "8000",
+      "description": "This is for all the latest trend no matter what!",
+      "sizes": ["M", "L", "XM"]
+    },
+    {
+      "id": "5",
+      "title": "Brown Hoodie",
+      "image": "images/fash-5.jpeg",
+      "price": "5000",
+      "description": "This is for all the latest trend no matter what!",
+      "sizes": ["M", "L", "XM", "XL"]
+    },
+    {
+      "id": "6",
+      "title": "Blue Men's Pant",
+      "image": "images/fash-6.jpeg",
+      "price": "7000",
+      "description": "This is for all the latest trend no matter what!",
+      "sizes": ["S", "M", "L", "XM", "XL"]
+    },
+    {
+      "id": "7",
+      "title": "Black English Gown",
+      "image": "images/fash-7.jpeg",
+      "price": "4000",
+      "description": "This is for all the latest trend no matter what!",
+      "sizes": ["M", "XM", "S"]
+    },
+    {
+      "id": "8",
+      "title": "Audition Short Gown",
+      "image": "images/fash-8.jpeg",
+      "price": "8000",
+      "description": "This is for all the latest trend no matter what!",
+      "sizes": ["M", "L", "S"]
+    },
+    {
+      "id": "9",
+      "title": "Ash Men's Pant",
+      "image": "images/fash-9.jpeg",
+      "price": "6000",
+      "description": "This is for all the latest trend no matter what!",
+      "sizes": ["M", "L"]
+    },
+    {
+      "id": "10",
+      "title": "Blue Asian Casual",
+      "image": "images/fash-10.jpeg",
+      "price": "10000",
+      "description": "This is for all the latest trend no matter what!",
+      "sizes": ["M", "L", "XM", "XL"]
+    },
+    {
+      "id": "11",
+      "title": "Milk Simple Shirt",
+      "image": "images/fash-13.jpeg",
+      "price": "3000",
+      "description": "This is for all the latest trend no matter what!",
+      "sizes": ["M", "L", "S", "XL"]
+    },
+    {
+      "id": "12",
+      "title": "Red Jacket and Black Suit",
+      "image": "images/fash-12.jpeg",
+      "price": "12000",
+      "description": "This is for all the latest trend no matter what!",
+      "sizes": ["M", "L", "XM", "XL"]
+    }
+  ]
 }
