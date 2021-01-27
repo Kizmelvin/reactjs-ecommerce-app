@@ -151,7 +151,7 @@ export default class Cart extends Component {
               {this.state.showCheckout && (
                 <Fade right cascade>
                   <div className="cart">
-                    <form>
+                    <form onSubmit={this.standardPay}>
                       {loading && (
                         <div>
                           {/* <img src={fx} alt=""/> */}
@@ -198,7 +198,7 @@ export default class Cart extends Component {
                         </li>
                         <li>
                           <button
-                            onClick={this.standardPay}
+                            type="submit"
                             className="button-primary"
                             disabled={loading}
                           >
